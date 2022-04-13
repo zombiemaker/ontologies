@@ -9,5 +9,8 @@
 * Financial System Ontology
 * Monetary System Ontology
 * BitCoin System Ontology
+* Application System Ontology
+* Application Ontology
+* Kubernetes Ontology
 * Bible Ontology
 * YHWH Ontology
