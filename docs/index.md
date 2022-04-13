@@ -14,12 +14,18 @@ I share my work with everyone in hopes that it helps us better understand the un
 
 ## Ontologies
 
+* Bible
+* YHWH
 * [Metaverse](https://zombiemaker.github.io/metaverse-ontology)
 * [Human](https://zombiemaker.github.io/human-ontology)
 * [Human Relationship](https://zombiemaker.github.io/human-relationship-ontology)
+* Business System
 * [Application System](https://zombiemaker.github.io/application-system-ontology)
 * [Enterprise Architecture](https://zombiemaker.github.io/enterprise-architecture-ontology)
+* Strategy
+* Competitive Strategy
 * Economy
+* Financial System
 * Monetary System
-* Bible
-* YHWH
+* BitCoin System
+* Kubernetes
